@@ -2,7 +2,7 @@
 
 ## Description of Project Files
 
-- Breast_Cancer_Project.sql : An SQL file containing all the SQL queries for the Project
+- Breast_Cancer_Project.sql : A SQL file containing all the SQL queries for the Project
 - README.md : A file containing an overview, summary and description of the entire Project.
 - breast_cancer.csv : The dataset used for the project
 
